@@ -1,0 +1,46 @@
+https://saids.ustc.edu.cn/15435/list{page_num}.htm                                     大数据学院
+https://finance.ustc.edu.cn/xzzx/list{page_num}.psp                                    财务处
+https://stuhome.ustc.edu.cn/2310/list{page_num}.htm                                    学工在线
+https://bwc.ustc.edu.cn/5655/list{page_num}.htm                                        保卫与校园管理处
+http://zhb.ustc.edu.cn/18534/list{page_num}.htm                                        科技成果转移转化办公室
+http://young.ustc.edu.cn/15056/list{page_num}.htm                                      青春科大
+http://cs.ustc.edu.cn/20158/list{page_num}.psp                                         计算机科学技术学院
+http://cybersec.ustc.edu.cn/zlxz_23830/list{page_num}.psp                              网络空间安全学院
+https://math.ustc.edu.cn/wswd/list{page_num}.htm                                       数学科学学院 类别：外事文件
+https://math.ustc.edu.cn/tszy/list{page_num}.htm                                       数学科学学院 类别：图书资源
+https://math.ustc.edu.cn/gkkzy/list{page_num}.htm                                      数学科学学院 类别：公开课资源
+
+http://press.ustc.edu.cn/tgxz/list{page_num}.htm                                       出版社    类别：投稿须知
+http://press.ustc.edu.cn/xtxxb/list{page_num}.htm                                      出版社    类别：选题信息表
+http://press.ustc.edu.cn/bzgf/list{page_num}.htm                                       出版社    类别：标准规范
+http://press.ustc.edu.cn/wjfg/list{page_num}.htm                                       出版社    类别：文件法规
+http://press.ustc.edu.cn/jxzy/list{page_num}.htm                                       出版社    类别：教学资源
+
+https://ispc.ustc.edu.cn/6299/list{page_num}.psp                                       信息科学试验中心   类别：申请与登记
+https://ispc.ustc.edu.cn/6298/list{page_num}.htm                                       信息科学试验中心   类别：技术文档
+
+http://ustcnet.ustc.edu.cn/33489/list{page_num}.psp                                    网络信息中心    类别：规章制度
+http://ustcnet.ustc.edu.cn/33490/list{page_num}.psp                                    网络信息中心    类别：网字文件
+http://ustcnet.ustc.edu.cn/33491/list{page_num}.psp                                    网络信息中心    类别：校网字文件
+http://ustcnet.ustc.edu.cn/33492/list{page_num}.psp                                    网络信息中心    类别：相关文件
+
+https://zhc.ustc.edu.cn/zcgll/list{page_num}.htm                                       资产与后勤保障处    类别：资产管理类
+https://zhc.ustc.edu.cn/fcgll/list{page_num}.htm                                       资产与后勤保障处    类别：房产管理类
+https://zhc.ustc.edu.cn/cggll/list{page_num}.htm                                       资产与后勤保障处    类别：采购管理类
+https://zhc.ustc.edu.cn/hqbzyzhgll/list{page_num}.htm                                  资产与后勤保障处    类别：后勤保障与综合管理类
+
+https://sist.ustc.edu.cn/5111/list{page_num}.htm                                       信息科学技术学院    类别：本科生教育
+https://sist.ustc.edu.cn/5104/list{page_num}.htm                                       信息科学技术学院    类别：研究生教育
+https://sist.ustc.edu.cn/5128/list{page_num}.htm                                       信息科学技术学院    类别：党建工作
+https://sist.ustc.edu.cn/5095/list{page_num}.htm                                       信息科学技术学院    类别：学习工作
+https://sist.ustc.edu.cn/5085/list{page_num}.htm                                       信息科学技术学院    类别：科学研究
+https://sist.ustc.edu.cn/5079/list{page_num}.htm                                       信息科学技术学院    类别：信息服务
+
+https://sse.ustc.edu.cn/19878/list{page_num}.htm                                       软件学院      类别：教学管理
+https://sse.ustc.edu.cn/19879/list{page_num}.htm                                       软件学院      类别：招生管理
+https://sse.ustc.edu.cn/19880/list{page_num}.htm                                       软件学院      类别：就业管理
+https://sse.ustc.edu.cn/19882/list{page_num}.htm                                       软件学院      类别：工程实践
+https://sse.ustc.edu.cn/19884/list{page_num}.htm                                       软件学院      类别：党团建设
+https://sse.ustc.edu.cn/19885/list{page_num}.htm                                       软件学院      类别：学生管理
+
+

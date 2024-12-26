@@ -1,0 +1,860 @@
+[
+    {
+        "url": "https://saids.ustc.edu.cn/15435/list{page_num}.htm",
+        "institution": "大数据学院",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://finance.ustc.edu.cn/xzzx/list{page_num}.psp",
+        "institution": "财务处",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "news_title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://stuhome.ustc.edu.cn/2310/list{page_num}.htm",
+        "institution": "学工在线",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "news_title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://bwc.ustc.edu.cn/5655/list{page_num}.htm",
+        "institution": "保卫与校园管理处",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "li",
+            "class_": "list-group-item"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://zhb.ustc.edu.cn/18534/list{page_num}.htm",
+        "institution": "科技成果转移转化办公室",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://young.ustc.edu.cn/15056/list{page_num}.htm",
+        "institution": "青春科大",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "li",
+            "class_": "text-li cf2"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://cs.ustc.edu.cn/20158/list{page_num}.psp",
+        "institution": "计算机科学技术学院",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "news_title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://cybersec.ustc.edu.cn/zlxz_23830/list{page_num}.psp",
+        "institution": "网络空间安全学院",
+        "type": null,
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "li",
+            "class_": "cle"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://math.ustc.edu.cn/wswd/list{page_num}.htm",
+        "institution": "数学科学学院",
+        "type": "外事文件",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://math.ustc.edu.cn/tszy/list{page_num}.htm",
+        "institution": "数学科学学院",
+        "type": "图书资源",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://math.ustc.edu.cn/gkkzy/list{page_num}.htm",
+        "institution": "数学科学学院",
+        "type": "公开课资源",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://press.ustc.edu.cn/tgxz/list{page_num}.htm",
+        "institution": "教务处",
+        "type": "通知管理",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h2",
+            "class_": "node-title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "text"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://press.ustc.edu.cn/tgxz/list{page_num}.htm",
+        "institution": "出版社",
+        "type": "投稿须知",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h2",
+            "class_": "node-title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": null
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://press.ustc.edu.cn/xtxxb/list{page_num}.htm",
+        "institution": "出版社",
+        "type": "选题信息表",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h2",
+            "class_": "node-title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": null
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://press.ustc.edu.cn/bzgf/list{page_num}.htm",
+        "institution": "出版社",
+        "type": "标准规范",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h2",
+            "class_": "node-title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": null
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://press.ustc.edu.cn/wjfg/list{page_num}.htm",
+        "institution": "出版社",
+        "type": "文件法规",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h2",
+            "class_": "node-title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": null
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://press.ustc.edu.cn/jxzy/list{page_num}.htm",
+        "institution": "出版社",
+        "type": "教学资源",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h2",
+            "class_": "node-title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": null
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://ispc.ustc.edu.cn/6299/list{page_num}.psp",
+        "institution": "信息科学试验中心",
+        "type": "申请与登记",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "time"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://ispc.ustc.edu.cn/6298/list{page_num}.psp",
+        "institution": "信息科学试验中心",
+        "type": "类别：技术文档",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "time"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://ustcnet.ustc.edu.cn/33489/list{page_num}.psp",
+        "institution": "网络信息中心",
+        "type": "规章制度",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "news_title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://ustcnet.ustc.edu.cn/33490/list{page_num}.psp",
+        "institution": "网络信息中心",
+        "type": "网字文件",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "news_title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://ustcnet.ustc.edu.cn/33491/list{page_num}.psp",
+        "institution": "网络信息中心",
+        "type": "校网字文件",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "news_title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "http://ustcnet.ustc.edu.cn/33492/list{page_num}.psp",
+        "institution": "网络信息中心",
+        "type": "类别：相关文件",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "news_title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://zhc.ustc.edu.cn/zcgll/list{page_num}.htm",
+        "institution": "资产与后勤保障处",
+        "type": "资产管理类",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "li",
+            "class_": "cle"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "div",
+                "class_": "fl text txtov"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://zhc.ustc.edu.cn/fcgll/list{page_num}.htm",
+        "institution": "资产与后勤保障处",
+        "type": "房产管理类",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "li",
+            "class_": "cle"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "div",
+                "class_": "fl text txtov"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://zhc.ustc.edu.cn/cggll/list{page_num}.htm",
+        "institution": "资产与后勤保障处",
+        "type": "采购管理类",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "li",
+            "class_": "cle"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "div",
+                "class_": "fl text txtov"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://zhc.ustc.edu.cn/hqbzyzhgll/list{page_num}.htm",
+        "institution": "资产与后勤保障处",
+        "type": "后勤保障与综合管理类",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "li",
+            "class_": "cle"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "div",
+                "class_": "fl text txtov"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sist.ustc.edu.cn/5111/list{page_num}.htm",
+        "institution": "信息科学技术学院",
+        "type": "本科生教育",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h5",
+            "class_": "card-title fs-semibold text-truncate"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sist.ustc.edu.cn/5104/list{page_num}.htm",
+        "institution": "信息科学技术学院",
+        "type": "研究生教育",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h5",
+            "class_": "card-title fs-semibold text-truncate"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sist.ustc.edu.cn/5128/list{page_num}.htm",
+        "institution": "信息科学技术学院",
+        "type": "党建工作",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h5",
+            "class_": "card-title fs-semibold text-truncate"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sist.ustc.edu.cn/5095/list{page_num}.htm",
+        "institution": "信息科学技术学院",
+        "type": "学习工作",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h5",
+            "class_": "card-title fs-semibold text-truncate"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sist.ustc.edu.cn/5085/list{page_num}.htm",
+        "institution": "信息科学技术学院",
+        "type": "类别：科学研究",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h5",
+            "class_": "card-title fs-semibold text-truncate"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sist.ustc.edu.cn/5079/list{page_num}.htm",
+        "institution": "信息科学技术学院",
+        "type": "信息服务",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "h5",
+            "class_": "card-title fs-semibold text-truncate"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sse.ustc.edu.cn/19878/list{page_num}.htm",
+        "institution": "软件学院",
+        "type": "教学管理",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sse.ustc.edu.cn/19879/list{page_num}.htm",
+        "institution": "软件学院",
+        "type": "招生管理",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sse.ustc.edu.cn/19880/list{page_num}.htm",
+        "institution": "软件学院",
+        "type": "就业管理",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sse.ustc.edu.cn/19882/list{page_num}.htm",
+        "institution": "软件学院",
+        "type": "工程实践",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sse.ustc.edu.cn/19884/list{page_num}.htm",
+        "institution": "软件学院",
+        "type": "党团建设",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    },
+    {
+        "url": "https://sse.ustc.edu.cn/19885/list{page_num}.htm",
+        "institution": "软件学院",
+        "type": "学生管理",
+        "file_lists_locator": {
+            "method": "find_all",
+            "tag": "span",
+            "class_": "Article_Title"
+        },
+        "single_file_locator": [
+            {
+                "info": "title",
+                "tag": "a",
+                "class_": "title"
+            },
+            {
+                "info": "link",
+                "tag": "a",
+                "class_": "href"
+            }
+        ]
+    }
+]
